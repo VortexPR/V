@@ -13,5 +13,5 @@ async function paf() {
     }
     
 }
-const apikey = 'https://api.codetabs.com/v1/proxy/?quest=https://api.scpslgame.com/serverinfo.php?id=21704&key=r97nM3qYkp%2FSUFWg9ibvHFoX&lo=true&players=true&online=true'
+const apikey = 'https://scrappy-php.herokuapp.com/?url=https://api.scpslgame.com/serverinfo.php?id=21704&key=r97nM3qYkp%2FSUFWg9ibvHFoX&lo=true&players=true&online=true'
 paf();
